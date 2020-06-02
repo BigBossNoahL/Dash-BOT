@@ -26,3 +26,5 @@ Dash.on('message', message => {
         message.channel.send(HelpEmbed)
     }
 });
+
+Dash.login('TOKEN');
