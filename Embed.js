@@ -4,11 +4,11 @@ const Dash = new Discord.Client();
 var prefix = "$"
 
 Dash.on("ready", function () {
-  console.log("main.js connected!");
+  console.log("message.js connected!");
 });
 
 Dash.on("ready", () => {
-    bot.user.setActivity(`$help | !command`); //Game activity
+    bot.user.setActivity(`Je suis nouveau !`);
   });
 
 const HelpEmbed = new Discord.MessageEmbed()
