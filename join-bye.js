@@ -28,6 +28,6 @@ const JoinEmbed = new Discord.MessageEmbed()
     .setColor('RANDOM')
     .setThumbnail('https://static.hitek.fr/img/actualite/2015/05/fb_terminator-skynet-00258822.jpg')
     .setTitle(`Hello, welcome to this server!`)
-    .setDescription('Please read the rules and enjoy :yum:')
+    .setDescription('Please read the rules and enjoy')
 
-Dash.login('NzA1NDg1ODA5NjY2NzUyNjEz.Xr_oeg.Ye9A0uoT-7ujEEOTPOK_WWiiwHw');
+Dash.login('TOKEN')
