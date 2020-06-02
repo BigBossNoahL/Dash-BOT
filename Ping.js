@@ -19,4 +19,4 @@ Dash.on('message', async message => {
     }    
 })
 
-Dash.login('NzA1NDg1ODA5NjY2NzUyNjEz.Xr_oeg.Ye9A0uoT-7ujEEOTPOK_WWiiwHw')
+Dash.login('TOKEN');
